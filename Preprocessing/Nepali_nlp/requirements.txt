@@ -1,0 +1,16 @@
+gensim==3.7.3
+requests==2.22.0
+wget==3.2
+beautifulsoup4
+news-please
+pytesseract
+spello==1.2.0
+snowballstemmer
+tensorflow
+sentencepiece
+scikit-learn
+pydload
+tensorboardX
+# fait irseq
+opencv-python
+transformers
